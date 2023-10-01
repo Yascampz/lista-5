@@ -1,0 +1,2 @@
+cidadesEstados = {'São Paulo': 'São Paulo','Rio de Janeiro': 'Rio de Janeiro','Belo Horizonte': 'Minas Gerais','Salvador': 'Bahia','Recife': 'Pernambuco','Curitiba': 'Paraná','Porto Alegre': 'Rio Grande do Sul','Brasília': 'Distrito Federal','Fortaleza': 'Ceará','Manaus': 'Amazonas'}
+print(cidadesEstados.values())
